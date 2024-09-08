@@ -151,8 +151,6 @@ public class Int101Homework02 {
         System.out.println("After transfer "+"Account 1 :"+ account1.getBalance() + "Account2 : "
                 + account2.getBalance() + "\n");
 
-        System.out.println(account1);
-        System.out.println(account2);
-        System.out.println("equals: " + account1.equals(account2));
+        
     }
 }
